@@ -4,11 +4,9 @@
 
 <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xingxing7290&show_icons=true&theme=dark&count_private=true" /> </div>
 
+<div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingxing7290&theme=dark&layout=compact" /> </div>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xingxing7290&theme=dark&layout=compact)
-
-![](https://activity-graph.herokuapp.com/graph?username=xingxing7290&theme=github)
 
 [![xingxing7290's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingxing7290&theme=dracula)](https://github.com/xingxing7290/github-readme-activity-graph)
 
