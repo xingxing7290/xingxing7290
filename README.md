@@ -8,7 +8,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=xingxing7290&theme=github)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingxing7290&theme=dracula)](https://github.com/xingxing7290/github-readme-activity-graph)
 
 <!--
 **xingxing7290/xingxing7290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
