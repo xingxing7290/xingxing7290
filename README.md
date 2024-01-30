@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+四年本科教育-物联网工程专业
+工作一年的初级嵌入式软件工程师 
+
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xingxing7290&show_icons=true&theme=dark&count_private=true" /> </div>
