@@ -38,10 +38,7 @@
 <!-- <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingxing7290&theme=dark&layout=compact" /> </div> -->
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -112,12 +109,26 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-
- Last Updated on 05/02/2024 01:16:27 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
 
 </table>
 
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+<!-- Joke 笑话 -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
