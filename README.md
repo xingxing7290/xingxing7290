@@ -35,31 +35,10 @@
 
 <!-- <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xingxing7290&show_icons=true&theme=dark&count_private=true" /> </div> -->
 
-
-
 <!-- <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingxing7290&theme=dark&layout=compact" /> </div> -->
 
 
-<!-- [![xingxing7290's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingxing7290&theme=dracula)](https://github.com/xingxing7290/github-readme-activity-graph) -->
-
-
-
-
-### 📊 WakaTime
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-
-  
-</picture>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -78,24 +57,67 @@
 
 
 
+## 📊 WakaTime
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xingxing7290&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+
+  
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                483 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+🌆 Daytime                659 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                608 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+🌙 Night                  312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Wednesday                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   580 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Saturday                 189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 
+ Last Updated on 05/02/2024 01:16:27 UTC
+<!--END_SECTION:waka-->
+  
+</td></tr>
 
+</table>
 
-
-<!--
-**xingxing7290/xingxing7290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
